@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**megatronic27/megatronic27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: miguel.parents@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am Iron Man
--->
