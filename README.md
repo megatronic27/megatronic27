@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Miguel Pereira Martins and I'm a student in FCUL.
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
